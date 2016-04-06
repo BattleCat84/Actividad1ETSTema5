@@ -13,6 +13,7 @@ public class Main {
         double saldoActual;
 
         miCuenta = new CCuenta("Antonio López","1000-2365-85-1230456789",2500,0);
+        miCuenta = new CCuenta("Angela MERKEL","1000-2365-85-1230456789",2500,0);
         saldoActual = miCuenta.estado();
         System.out.println("El saldo actual es"+ saldoActual );
 
