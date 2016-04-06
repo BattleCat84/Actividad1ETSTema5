@@ -23,6 +23,7 @@ public class Main {
         }
         try {
             System.out.println("Ingreso en cuenta");
+            System.out.println("Mi primera nomina");
             miCuenta.ingresar(695);
         } catch (Exception e) {
             System.out.print("Fallo al ingresar");
