@@ -25,6 +25,8 @@ public class Main {
         try {
             System.out.println("Ingreso en cuenta");
             // Comentario
+            // otra cosa
+            // algo para el 5º
             System.out.println("Mi primera nomina");
             miCuenta.ingresar(695);
         } catch (Exception e) {
